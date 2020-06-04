@@ -1,6 +1,6 @@
 # WorldTastes
 <h4> <b>WorldTastes</b> is an application to share your experiences about hotels, cafes, bars, restaurants etc. </h4>
-<a href="https://twitter.com/onur_ustunel"> for contact : twitter.com/onur_ustunel </a>
+<a href="https://twitter.com/onur_ustunel"> for contact : twitter.com/onur_ustunel </a> <b>
 Launch Screen
 <img src="WorldTastes/Assets.xcassets/ss/ss0.png"  width="250" >
 Login Screen
