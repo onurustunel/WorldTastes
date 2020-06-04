@@ -33,3 +33,12 @@ Navigation Screen
 <img src="WorldTastes/Assets.xcassets/ss/ss14.png"  width="250" >
 Upload Screen
 <img src="WorldTastes/Assets.xcassets/ss/ss15.png"  width="250" >
+<p>
+<b>Important Notes:  </b> </p>
+<p> <u>Please do not forget to install these pod files. </u> </p>
+<p>pod 'Firebase/Analytics'</p>
+<p>pod 'Firebase/Auth'</p>
+<p>pod 'Firebase/Core'</p>
+<p>pod 'Firebase/Firestore'</p>
+<p>pod 'Firebase/Storage'</p>
+<p>pod 'SDWebImage'</p>
